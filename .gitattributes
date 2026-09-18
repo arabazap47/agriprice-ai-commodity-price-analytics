@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Agriculture_price_dataset.csv filter=lfs diff=lfs merge=lfs -text
